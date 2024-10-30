@@ -1,0 +1,1845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalimah Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-25 16:49+0000\n"
+"PO-Revision-Date: 2016-09-25 16:56+0000\n"
+"Last-Translator: Abdul Al-Hasany <kahhar87@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: kalimah-shortcodes.php:389 kalimah-shortcodes.php:1129
+msgid "Dummy Image"
+msgstr "صورة عشوائية"
+
+#: kalimah-shortcodes.php:399 kalimah-shortcodes.php:1016
+msgid "Gallery"
+msgstr "معرض"
+
+#: kalimah-shortcodes.php:400
+msgid "Mockup"
+msgstr "مجسم"
+
+#: kalimah-shortcodes.php:409
+msgid "Soundcloud"
+msgstr ""
+
+#: kalimah-shortcodes.php:412 kalimah-shortcodes.php:2311
+msgid "Typography"
+msgstr "خطوط"
+
+#: kalimah-shortcodes.php:413
+msgid "Vimeo"
+msgstr ""
+
+#: kalimah-shortcodes.php:611
+msgid "Mockups"
+msgstr "مجسمات"
+
+#: kalimah-shortcodes.php:622
+msgid "Mobile"
+msgstr "موبايل"
+
+#: kalimah-shortcodes.php:623
+msgid "iPhone 4S"
+msgstr "آيفون 4 اس"
+
+#: kalimah-shortcodes.php:624
+msgid "iPhone 5"
+msgstr "آیفون 5"
+
+#: kalimah-shortcodes.php:625
+msgid "iPhone 5S"
+msgstr "آیفون 5اس"
+
+#: kalimah-shortcodes.php:626
+msgid "iPhone 5C"
+msgstr "آیفون 5سي"
+
+#: kalimah-shortcodes.php:627
+msgid "iPhone 6"
+msgstr "آیفون 6"
+
+#: kalimah-shortcodes.php:628
+msgid "iPhone 6 Plus"
+msgstr "آیفون 5 بلس"
+
+#: kalimah-shortcodes.php:629
+msgid "Nexus 5"
+msgstr "نيكس 5"
+
+#: kalimah-shortcodes.php:630
+msgid "Lumia 920"
+msgstr "لوميا 920"
+
+#: kalimah-shortcodes.php:631
+msgid "Samsung Galaxy S5"
+msgstr "سامسونج جالاكسي اس 5"
+
+#: kalimah-shortcodes.php:632
+msgid "HTC One"
+msgstr "اتش تي سي وان"
+
+#: kalimah-shortcodes.php:634
+msgid "Tablets"
+msgstr "الأجهزة اللوحية"
+
+#: kalimah-shortcodes.php:636
+msgid "iPad Mini"
+msgstr "آيباد ميني"
+
+#: kalimah-shortcodes.php:638
+msgid "Computers"
+msgstr "الكمبيوترات"
+
+#: kalimah-shortcodes.php:639
+msgid "MacBook Pro"
+msgstr "ماك بوك برو"
+
+#: kalimah-shortcodes.php:641
+msgid "Browsers"
+msgstr "المتصفحات"
+
+#: kalimah-shortcodes.php:642
+msgid "Firefox"
+msgstr "فايرفوكس"
+
+#: kalimah-shortcodes.php:645
+msgid "IE"
+msgstr "الاكسبلورر"
+
+#: kalimah-shortcodes.php:650
+msgid "Orientation"
+msgstr "الاتجاه"
+
+#: kalimah-shortcodes.php:655
+msgid "Portrait"
+msgstr "أفقي"
+
+#: kalimah-shortcodes.php:656
+msgid "Landscape"
+msgstr "عرضي"
+
+#: kalimah-shortcodes.php:667 kalimah-shortcodes.php:691
+msgid "URL"
+msgstr "رابط"
+
+#: kalimah-shortcodes.php:772
+msgid "bounce"
+msgstr ""
+
+#: kalimah-shortcodes.php:773
+msgid "flash"
+msgstr ""
+
+#: kalimah-shortcodes.php:774
+msgid "pulse"
+msgstr ""
+
+#: kalimah-shortcodes.php:775
+msgid "rubberBand"
+msgstr ""
+
+#: kalimah-shortcodes.php:776
+msgid "shake"
+msgstr ""
+
+#: kalimah-shortcodes.php:777
+msgid "swing"
+msgstr ""
+
+#: kalimah-shortcodes.php:778
+msgid "tada"
+msgstr ""
+
+#: kalimah-shortcodes.php:779
+msgid "wobble"
+msgstr ""
+
+#: kalimah-shortcodes.php:780
+msgid "jello"
+msgstr ""
+
+#: kalimah-shortcodes.php:781
+msgid "bounceIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:782
+msgid "bounceInDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:783
+msgid "bounceInLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:784
+msgid "bounceInRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:785
+msgid "bounceInUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:786
+msgid "bounceOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:787
+msgid "bounceOutDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:788
+msgid "bounceOutLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:789
+msgid "bounceOutRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:790
+msgid "bounceOutUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:791
+msgid "fadeIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:792
+msgid "fadeInDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:793
+msgid "fadeInDownBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:794
+msgid "fadeInLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:795
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:796
+msgid "fadeInRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:797
+msgid "fadeInRightBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:798
+msgid "fadeInUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:799
+msgid "fadeInUpBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:800
+msgid "fadeOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:801
+msgid "fadeOutDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:802
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:803
+msgid "fadeOutLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:804
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:805
+msgid "fadeOutRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:806
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:807
+msgid "fadeOutUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:808
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: kalimah-shortcodes.php:809
+msgid "flip"
+msgstr ""
+
+#: kalimah-shortcodes.php:810
+msgid "flipInX"
+msgstr ""
+
+#: kalimah-shortcodes.php:811
+msgid "flipInY"
+msgstr ""
+
+#: kalimah-shortcodes.php:812
+msgid "flipOutX"
+msgstr ""
+
+#: kalimah-shortcodes.php:813
+msgid "flipOutY"
+msgstr ""
+
+#: kalimah-shortcodes.php:814
+msgid "lightSpeedIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:815
+msgid "lightSpeedOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:816
+msgid "rotateIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:817
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:818
+msgid "rotateInDownRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:819
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:820
+msgid "rotateInUpRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:821
+msgid "rotateOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:822
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:823
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:824
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:825
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:826
+msgid "slideInUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:827
+msgid "slideInDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:828
+msgid "slideInLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:829
+msgid "slideInRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:830
+msgid "slideOutUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:831
+msgid "slideOutDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:832
+msgid "slideOutLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:833
+msgid "slideOutRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:834
+msgid "zoomIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:835
+msgid "zoomInDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:836
+msgid "zoomInLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:837
+msgid "zoomInRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:838
+msgid "zoomInUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:839
+msgid "zoomOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:840
+msgid "zoomOutDown"
+msgstr ""
+
+#: kalimah-shortcodes.php:841
+msgid "zoomOutLeft"
+msgstr ""
+
+#: kalimah-shortcodes.php:842
+msgid "zoomOutRight"
+msgstr ""
+
+#: kalimah-shortcodes.php:843
+msgid "zoomOutUp"
+msgstr ""
+
+#: kalimah-shortcodes.php:844
+msgid "hinge"
+msgstr ""
+
+#: kalimah-shortcodes.php:845
+msgid "rollIn"
+msgstr ""
+
+#: kalimah-shortcodes.php:846
+msgid "rollOut"
+msgstr ""
+
+#: kalimah-shortcodes.php:1021
+msgid "Source"
+msgstr "المصدر"
+
+#: kalimah-shortcodes.php:1027 kalimah-shortcodes.php:1039
+msgid "Media"
+msgstr "وسائط"
+
+#: kalimah-shortcodes.php:1028 kalimah-shortcodes.php:1054
+msgid "Categories"
+msgstr "تصنيفات"
+
+#: kalimah-shortcodes.php:1029 kalimah-shortcodes.php:1078
+msgid "Tags"
+msgstr "أوسمة"
+
+#: kalimah-shortcodes.php:1062 kalimah-shortcodes.php:1086
+msgid "Number"
+msgstr "العدد"
+
+#: kalimah-shortcodes.php:1167
+msgid "Theme"
+msgstr "التصنيف"
+
+#: kalimah-shortcodes.php:1173
+msgid "Random"
+msgstr "عشوائي"
+
+#: kalimah-shortcodes.php:1174
+msgid "Abstract"
+msgstr "تجريدي"
+
+#: kalimah-shortcodes.php:1175
+msgid "Animals"
+msgstr "حيوانات"
+
+#: kalimah-shortcodes.php:1176
+msgid "Business"
+msgstr "عمل"
+
+#: kalimah-shortcodes.php:1177
+msgid "Cats"
+msgstr "قطط"
+
+#: kalimah-shortcodes.php:1178
+msgid "City"
+msgstr "مدينة"
+
+#: kalimah-shortcodes.php:1179
+msgid "People"
+msgstr "أناس"
+
+#: kalimah-shortcodes.php:1180
+msgid "Food"
+msgstr "أكل"
+
+#: kalimah-shortcodes.php:1181
+msgid "Nature"
+msgstr "طبيعة"
+
+#: kalimah-shortcodes.php:1182
+msgid "Sports"
+msgstr "رياضة"
+
+#: kalimah-shortcodes.php:1183
+msgid "Technology"
+msgstr "تقنية"
+
+#: kalimah-shortcodes.php:1184
+msgid "Trasnport"
+msgstr "مواصلات"
+
+#: kalimah-shortcodes.php:1188
+msgid "Filter"
+msgstr "الفلتر"
+
+#: kalimah-shortcodes.php:1195
+msgid "Blur"
+msgstr "ضبابي"
+
+#: kalimah-shortcodes.php:1196
+msgid "Brightness"
+msgstr "الإضاءة"
+
+#: kalimah-shortcodes.php:1197
+msgid "Contrast"
+msgstr "التباين"
+
+#: kalimah-shortcodes.php:1198
+msgid "Grayscale"
+msgstr "تدرج الرمادي"
+
+#: kalimah-shortcodes.php:1199
+msgid "Hue Rotate"
+msgstr "تدوير الألوان"
+
+#: kalimah-shortcodes.php:1200
+msgid "Invert"
+msgstr "عكس"
+
+#: kalimah-shortcodes.php:1201
+msgid "Opacity"
+msgstr "شفافية"
+
+#: kalimah-shortcodes.php:1202
+msgid "Saturate"
+msgstr "إشباع"
+
+#: kalimah-shortcodes.php:1203
+msgid "Sepia"
+msgstr "سبيدج"
+
+#: kalimah-shortcodes.php:1207
+msgid "Filter level"
+msgstr "مستوى الفلتر"
+
+#. Description of the plugin
+msgid ""
+"A premium shortcodes plugin with 40 amazingly designed shortcodes for free!"
+msgstr "إضافة إحترافية مجانية تحتوي على 40 كود مختصر بتصميمات جذابة وجميلة"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://english.kalimah-apps.com"
+msgstr ""
+
+#: kalimah-shortcodes.php:309
+msgid "Shortcode Selection"
+msgstr "المختصرات"
+
+#: kalimah-shortcodes.php:314
+msgid "Kalimah Shortocdes"
+msgstr "مختصرات كلمة"
+
+#: kalimah-shortcodes.php:376 kalimah-shortcodes.php:2870
+msgid "Audio"
+msgstr "الصوت"
+
+#: kalimah-shortcodes.php:377 kalimah-shortcodes.php:499 
+#: kalimah-shortcodes.php:721 kalimah-shortcodes.php:1736 
+#: kalimah-shortcodes.php:2181
+msgid "Animation"
+msgstr "الحركة"
+
+#: kalimah-shortcodes.php:378 kalimah-shortcodes.php:3720 
+#: kalimah-shortcodes.php:3810
+msgid "Accordion"
+msgstr "أكورديون"
+
+#: kalimah-shortcodes.php:379 kalimah-shortcodes.php:3507
+msgid "Author Box"
+msgstr "صندوق الكاتب"
+
+#: kalimah-shortcodes.php:380 kalimah-shortcodes.php:1455
+msgid "Box"
+msgstr "صندوق"
+
+#: kalimah-shortcodes.php:381 kalimah-shortcodes.php:1563
+msgid "Button"
+msgstr "زر"
+
+#: kalimah-shortcodes.php:382 kalimah-shortcodes.php:3614
+msgid "Columns"
+msgstr "أعمدة"
+
+#: kalimah-shortcodes.php:383 kalimah-shortcodes.php:3644
+msgid "Columns CSS"
+msgstr "اعمدة CSS"
+
+#: kalimah-shortcodes.php:384 kalimah-shortcodes.php:4072
+msgid "Content Box"
+msgstr "صندوق محتوى"
+
+#: kalimah-shortcodes.php:385
+msgid "Count"
+msgstr "عداد"
+
+#: kalimah-shortcodes.php:386 kalimah-shortcodes.php:1362
+msgid "Divider"
+msgstr "فاصل"
+
+#: kalimah-shortcodes.php:387 kalimah-shortcodes.php:2592
+msgid "Dropcap"
+msgstr "حرف استهلالي"
+
+#: kalimah-shortcodes.php:388 kalimah-shortcodes.php:3444
+msgid "Dummy Text"
+msgstr "نص عشوائي"
+
+#: kalimah-shortcodes.php:390
+msgid "Environment"
+msgstr "البيئة"
+
+#: kalimah-shortcodes.php:391 kalimah-shortcodes.php:2801
+msgid "Flickr"
+msgstr "فليكر"
+
+#: kalimah-shortcodes.php:392 kalimah-shortcodes.php:2254
+msgid "Highlight"
+msgstr "تسليط"
+
+#: kalimah-shortcodes.php:393 kalimah-shortcodes.php:877 
+#: kalimah-shortcodes.php:3961
+msgid "Heading"
+msgstr "ترويسة"
+
+#: kalimah-shortcodes.php:394 kalimah-shortcodes.php:666 
+#: kalimah-shortcodes.php:677 kalimah-shortcodes.php:4118
+msgid "Image"
+msgstr "صورة"
+
+#: kalimah-shortcodes.php:395 kalimah-shortcodes.php:918 
+#: kalimah-shortcodes.php:1568 kalimah-shortcodes.php:2018 
+#: kalimah-shortcodes.php:2023 kalimah-shortcodes.php:2106
+msgid "Icon"
+msgstr "الأيقونة"
+
+#: kalimah-shortcodes.php:396 kalimah-shortcodes.php:2090 
+#: kalimah-shortcodes.php:2134 kalimah-shortcodes.php:2221
+msgid "List"
+msgstr "قائمة"
+
+#: kalimah-shortcodes.php:397 kalimah-shortcodes.php:2163
+msgid "Features List"
+msgstr "قائمة الخصائص"
+
+#: kalimah-shortcodes.php:398 kalimah-shortcodes.php:3343
+msgid "Google Maps"
+msgstr "خرائط جوجل"
+
+#: kalimah-shortcodes.php:401 kalimah-shortcodes.php:3844
+msgid "Padding"
+msgstr "تبطين"
+
+#: kalimah-shortcodes.php:402
+msgid "Progress Bar"
+msgstr "شريط التقدم"
+
+#: kalimah-shortcodes.php:403
+msgid "Pricing Table"
+msgstr "جداول الأسعار"
+
+#: kalimah-shortcodes.php:404 kalimah-shortcodes.php:3568
+msgid "QR Code"
+msgstr "كود الاستجابة السريع"
+
+#: kalimah-shortcodes.php:405 kalimah-shortcodes.php:2431 
+#: kalimah-shortcodes.php:2576
+msgid "Quote"
+msgstr "اقتباس"
+
+#: kalimah-shortcodes.php:406 kalimah-shortcodes.php:2378 
+#: kalimah-shortcodes.php:2415
+msgid "Restricted Content"
+msgstr "محتوى مخفي"
+
+#: kalimah-shortcodes.php:407 kalimah-shortcodes.php:3087 
+#: kalimah-shortcodes.php:3205
+msgid "Slider"
+msgstr "عارض الشرائح"
+
+#: kalimah-shortcodes.php:408 kalimah-shortcodes.php:3239
+msgid "Spoiler"
+msgstr "صندوق متزحلق"
+
+#: kalimah-shortcodes.php:410 kalimah-shortcodes.php:1653 
+#: kalimah-shortcodes.php:1788
+msgid "Tabs"
+msgstr "ألسنة"
+
+#: kalimah-shortcodes.php:411 kalimah-shortcodes.php:1894
+msgid "Tooltip"
+msgstr "تلميح"
+
+#: kalimah-shortcodes.php:414 kalimah-shortcodes.php:2931 
+#: kalimah-shortcodes.php:4120
+msgid "Video"
+msgstr "فيديو"
+
+#: kalimah-shortcodes.php:415
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: kalimah-shortcodes.php:421
+msgid "Select Shortcode"
+msgstr "اختر المختصر"
+
+#: kalimah-shortcodes.php:429
+msgid "Search Shortcodes"
+msgstr "ابحث في المختصرات"
+
+#: kalimah-shortcodes.php:430
+msgid "Popular"
+msgstr "مشهور"
+
+#: kalimah-shortcodes.php:449
+msgid "Shortcodes"
+msgstr "المختصرات"
+
+#: kalimah-shortcodes.php:465
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: kalimah-shortcodes.php:470
+msgid "Shortcodes Prefix"
+msgstr "بادئة المختصرات"
+
+#: kalimah-shortcodes.php:477
+msgid "Custom CSS"
+msgstr "نمط مخصص"
+
+#: kalimah-shortcodes.php:484
+msgid "Update Settings"
+msgstr "تحديث الإعدادات"
+
+#: kalimah-shortcodes.php:504 kalimah-shortcodes.php:4261
+msgid "Image Url"
+msgstr "رابط لصورة"
+
+#: kalimah-shortcodes.php:511 kalimah-shortcodes.php:1157 
+#: kalimah-shortcodes.php:1492 kalimah-shortcodes.php:1670 
+#: kalimah-shortcodes.php:2436 kalimah-shortcodes.php:2670 
+#: kalimah-shortcodes.php:2742 kalimah-shortcodes.php:2889 
+#: kalimah-shortcodes.php:2943 kalimah-shortcodes.php:3028 
+#: kalimah-shortcodes.php:3099 kalimah-shortcodes.php:3244 
+#: kalimah-shortcodes.php:3356 kalimah-shortcodes.php:3755 
+#: kalimah-shortcodes.php:3968 kalimah-shortcodes.php:4077
+msgid "Width"
+msgstr "العرض"
+
+#: kalimah-shortcodes.php:519 kalimah-shortcodes.php:537 
+#: kalimah-shortcodes.php:890 kalimah-shortcodes.php:901 
+#: kalimah-shortcodes.php:960 kalimah-shortcodes.php:967 
+#: kalimah-shortcodes.php:1424 kalimah-shortcodes.php:1432 
+#: kalimah-shortcodes.php:1500 kalimah-shortcodes.php:1518 
+#: kalimah-shortcodes.php:1525 kalimah-shortcodes.php:1677 
+#: kalimah-shortcodes.php:1698 kalimah-shortcodes.php:2328 
+#: kalimah-shortcodes.php:2339 kalimah-shortcodes.php:2443 
+#: kalimah-shortcodes.php:2464 kalimah-shortcodes.php:2677 
+#: kalimah-shortcodes.php:2694 kalimah-shortcodes.php:2749 
+#: kalimah-shortcodes.php:2766 kalimah-shortcodes.php:2896 
+#: kalimah-shortcodes.php:2950 kalimah-shortcodes.php:2967 
+#: kalimah-shortcodes.php:2974 kalimah-shortcodes.php:3035 
+#: kalimah-shortcodes.php:3052 kalimah-shortcodes.php:3059 
+#: kalimah-shortcodes.php:3106 kalimah-shortcodes.php:3123 
+#: kalimah-shortcodes.php:3130 kalimah-shortcodes.php:3251 
+#: kalimah-shortcodes.php:3363 kalimah-shortcodes.php:3380 
+#: kalimah-shortcodes.php:3663 kalimah-shortcodes.php:3672 
+#: kalimah-shortcodes.php:3745 kalimah-shortcodes.php:3752 
+#: kalimah-shortcodes.php:3763 kalimah-shortcodes.php:3857 
+#: kalimah-shortcodes.php:3875 kalimah-shortcodes.php:3893 
+#: kalimah-shortcodes.php:3911 kalimah-shortcodes.php:3975 
+#: kalimah-shortcodes.php:3992 kalimah-shortcodes.php:4084 
+#: kalimah-shortcodes.php:4101
+msgid "px"
+msgstr "بوصة"
+
+#: kalimah-shortcodes.php:529 kalimah-shortcodes.php:1148 
+#: kalimah-shortcodes.php:1419 kalimah-shortcodes.php:1510 
+#: kalimah-shortcodes.php:1691 kalimah-shortcodes.php:2457 
+#: kalimah-shortcodes.php:2687 kalimah-shortcodes.php:2759 
+#: kalimah-shortcodes.php:2960 kalimah-shortcodes.php:3045 
+#: kalimah-shortcodes.php:3116 kalimah-shortcodes.php:3373 
+#: kalimah-shortcodes.php:3737 kalimah-shortcodes.php:3985 
+#: kalimah-shortcodes.php:4094
+msgid "Height"
+msgstr "الإرتفاع"
+
+#: kalimah-shortcodes.php:547 kalimah-shortcodes.php:1460 
+#: kalimah-shortcodes.php:1899 kalimah-shortcodes.php:3261
+msgid "Title"
+msgstr "العنوان"
+
+#: kalimah-shortcodes.php:554
+msgid "Description"
+msgstr "الوصف"
+
+#: kalimah-shortcodes.php:562 kalimah-shortcodes.php:1613 
+#: kalimah-shortcodes.php:1874 kalimah-shortcodes.php:2065 
+#: kalimah-shortcodes.php:2235
+msgid "Link"
+msgstr "الرابط"
+
+#: kalimah-shortcodes.php:569
+msgid "Hover Effect"
+msgstr "تأثير المرور"
+
+#: kalimah-shortcodes.php:575 kalimah-shortcodes.php:1140 
+#: kalimah-shortcodes.php:1194 kalimah-shortcodes.php:2050
+msgid "None"
+msgstr "لا شيء"
+
+#: kalimah-shortcodes.php:576
+msgid "First Effect"
+msgstr "التأثير الأول"
+
+#: kalimah-shortcodes.php:577
+msgid "Second Effect"
+msgstr "التأثير الثاني"
+
+#: kalimah-shortcodes.php:578
+msgid "Third Effect"
+msgstr "التأثير الثالث"
+
+#: kalimah-shortcodes.php:579
+msgid "Fourth Effect"
+msgstr "التأثير الرابع"
+
+#: kalimah-shortcodes.php:580
+msgid "Fifth Effect"
+msgstr "التأثير الخامس"
+
+#: kalimah-shortcodes.php:581
+msgid "Sixth Effect"
+msgstr "التأثير السادس"
+
+#: kalimah-shortcodes.php:582
+msgid "Seventh Effect"
+msgstr "التأثير السابع"
+
+#: kalimah-shortcodes.php:583
+msgid "Eighth Effect"
+msgstr "التأثير الثامن"
+
+#: kalimah-shortcodes.php:584
+msgid "Ninth  Effect"
+msgstr "التأثير التاسع"
+
+#: kalimah-shortcodes.php:585
+msgid "Tenth Effect"
+msgstr "التأثير العاشر"
+
+#: kalimah-shortcodes.php:586
+msgid "Eleventh Effect"
+msgstr "التأثير الحادي عشر"
+
+#: kalimah-shortcodes.php:587
+msgid "Twelfth Effect"
+msgstr "التأثير الثاني عشر"
+
+#: kalimah-shortcodes.php:591 kalimah-shortcodes.php:701 
+#: kalimah-shortcodes.php:850 kalimah-shortcodes.php:972 
+#: kalimah-shortcodes.php:1109 kalimah-shortcodes.php:1217 
+#: kalimah-shortcodes.php:1335 kalimah-shortcodes.php:1436 
+#: kalimah-shortcodes.php:1535 kalimah-shortcodes.php:1627 
+#: kalimah-shortcodes.php:1782 kalimah-shortcodes.php:1845 
+#: kalimah-shortcodes.php:1991 kalimah-shortcodes.php:2071 
+#: kalimah-shortcodes.php:2128 kalimah-shortcodes.php:2215 
+#: kalimah-shortcodes.php:2285 kalimah-shortcodes.php:2351 
+#: kalimah-shortcodes.php:2405 kalimah-shortcodes.php:2566 
+#: kalimah-shortcodes.php:2632 kalimah-shortcodes.php:2711 
+#: kalimah-shortcodes.php:2782 kalimah-shortcodes.php:2912 
+#: kalimah-shortcodes.php:2997 kalimah-shortcodes.php:3068 
+#: kalimah-shortcodes.php:3199 kalimah-shortcodes.php:3317 
+#: kalimah-shortcodes.php:3425 kalimah-shortcodes.php:3475 
+#: kalimah-shortcodes.php:3549 kalimah-shortcodes.php:3595 
+#: kalimah-shortcodes.php:3619 kalimah-shortcodes.php:3695 
+#: kalimah-shortcodes.php:3804 kalimah-shortcodes.php:4053
+msgid "Additional Class"
+msgstr "كلاس إضافي"
+
+#: kalimah-shortcodes.php:598 kalimah-shortcodes.php:708 
+#: kalimah-shortcodes.php:864 kalimah-shortcodes.php:986 
+#: kalimah-shortcodes.php:1116 kalimah-shortcodes.php:1224 
+#: kalimah-shortcodes.php:1349 kalimah-shortcodes.php:1442 
+#: kalimah-shortcodes.php:1549 kalimah-shortcodes.php:1640 
+#: kalimah-shortcodes.php:1812 kalimah-shortcodes.php:1881 
+#: kalimah-shortcodes.php:2005 kalimah-shortcodes.php:2077 
+#: kalimah-shortcodes.php:2150 kalimah-shortcodes.php:2241 
+#: kalimah-shortcodes.php:2298 kalimah-shortcodes.php:2365 
+#: kalimah-shortcodes.php:2418 kalimah-shortcodes.php:2579 
+#: kalimah-shortcodes.php:2645 kalimah-shortcodes.php:2717 
+#: kalimah-shortcodes.php:2788 kalimah-shortcodes.php:2856 
+#: kalimah-shortcodes.php:2918 kalimah-shortcodes.php:3003 
+#: kalimah-shortcodes.php:3074 kalimah-shortcodes.php:3226 
+#: kalimah-shortcodes.php:3329 kalimah-shortcodes.php:3431 
+#: kalimah-shortcodes.php:3481 kalimah-shortcodes.php:3555 
+#: kalimah-shortcodes.php:3601 kalimah-shortcodes.php:3631 
+#: kalimah-shortcodes.php:3707 kalimah-shortcodes.php:3831 
+#: kalimah-shortcodes.php:3928 kalimah-shortcodes.php:4059 
+#: kalimah-shortcodes.php:4315 kalimah-shortcodes.php:4407
+msgid "Insert Shortcode"
+msgstr "أدرج المختصر"
+
+#: kalimah-shortcodes.php:616 kalimah-shortcodes.php:1373 
+#: kalimah-shortcodes.php:1466 kalimah-shortcodes.php:1658 
+#: kalimah-shortcodes.php:2168 kalimah-shortcodes.php:3449 
+#: kalimah-shortcodes.php:3725 kalimah-shortcodes.php:3948
+msgid "Type"
+msgstr "النوع"
+
+#: kalimah-shortcodes.php:635 kalimah-shortcodes.php:1299
+msgid "iPad"
+msgstr "آيباد"
+
+#: kalimah-shortcodes.php:643 kalimah-shortcodes.php:1268
+msgid "Chrome"
+msgstr "كروم"
+
+#: kalimah-shortcodes.php:644 kalimah-shortcodes.php:1273
+msgid "Safari"
+msgstr "سافاري"
+
+#: kalimah-shortcodes.php:661 kalimah-shortcodes.php:2824
+msgid "Display"
+msgstr "العرض"
+
+#: kalimah-shortcodes.php:727 kalimah-shortcodes.php:1914 
+#: kalimah-shortcodes.php:3773
+msgid "Trigger"
+msgstr "تفعيل عند"
+
+#: kalimah-shortcodes.php:732 kalimah-shortcodes.php:1919 
+#: kalimah-shortcodes.php:3780
+msgid "Hover"
+msgstr "تمرير"
+
+#: kalimah-shortcodes.php:733 kalimah-shortcodes.php:1920 
+#: kalimah-shortcodes.php:3779
+msgid "Click"
+msgstr "ضغط"
+
+#: kalimah-shortcodes.php:734 kalimah-shortcodes.php:1921
+msgid "In View"
+msgstr "عند الظهور"
+
+#: kalimah-shortcodes.php:735 kalimah-shortcodes.php:745 
+#: kalimah-shortcodes.php:1922 kalimah-shortcodes.php:1932
+msgid "Delay"
+msgstr "تأخير"
+
+#: kalimah-shortcodes.php:751 kalimah-shortcodes.php:1938
+msgid "Minutes"
+msgstr "دقائق"
+
+#: kalimah-shortcodes.php:752 kalimah-shortcodes.php:759 
+#: kalimah-shortcodes.php:1939 kalimah-shortcodes.php:1946 
+#: kalimah-shortcodes.php:3171 kalimah-shortcodes.php:4404
+msgid "Seconds"
+msgstr "ثواني"
+
+#: kalimah-shortcodes.php:766
+msgid "Effect"
+msgstr "التأثير"
+
+#: kalimah-shortcodes.php:857 kalimah-shortcodes.php:1342 
+#: kalimah-shortcodes.php:1542 kalimah-shortcodes.php:1633 
+#: kalimah-shortcodes.php:1806 kalimah-shortcodes.php:1875 
+#: kalimah-shortcodes.php:1997 kalimah-shortcodes.php:2236 
+#: kalimah-shortcodes.php:2291 kalimah-shortcodes.php:2357 
+#: kalimah-shortcodes.php:2362 kalimah-shortcodes.php:2411 
+#: kalimah-shortcodes.php:2572 kalimah-shortcodes.php:2638 
+#: kalimah-shortcodes.php:3221 kalimah-shortcodes.php:3323 
+#: kalimah-shortcodes.php:3625 kalimah-shortcodes.php:3701 
+#: kalimah-shortcodes.php:3826 kalimah-shortcodes.php:3921 
+#: kalimah-shortcodes.php:4307
+msgid "Content"
+msgstr "المحتوى"
+
+#: kalimah-shortcodes.php:882 kalimah-shortcodes.php:1589 
+#: kalimah-shortcodes.php:2058 kalimah-shortcodes.php:2322 
+#: kalimah-shortcodes.php:2597 kalimah-shortcodes.php:3587
+msgid "Size"
+msgstr "الحجم"
+
+#: kalimah-shortcodes.php:892 kalimah-shortcodes.php:2330
+msgid "pt"
+msgstr "نقطة"
+
+#: kalimah-shortcodes.php:904 kalimah-shortcodes.php:1575 
+#: kalimah-shortcodes.php:1959 kalimah-shortcodes.php:2037 
+#: kalimah-shortcodes.php:2113 kalimah-shortcodes.php:2207 
+#: kalimah-shortcodes.php:2265 kalimah-shortcodes.php:2550 
+#: kalimah-shortcodes.php:2605 kalimah-shortcodes.php:2882 
+#: kalimah-shortcodes.php:3092 kalimah-shortcodes.php:3296 
+#: kalimah-shortcodes.php:3535 kalimah-shortcodes.php:3796 
+#: kalimah-shortcodes.php:4024 kalimah-shortcodes.php:4289
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: kalimah-shortcodes.php:911 kalimah-shortcodes.php:1412 
+#: kalimah-shortcodes.php:1582 kalimah-shortcodes.php:2278 
+#: kalimah-shortcodes.php:2558 kalimah-shortcodes.php:2613 
+#: kalimah-shortcodes.php:3303 kalimah-shortcodes.php:3542 
+#: kalimah-shortcodes.php:4125
+msgid "Text Color"
+msgstr "لون النص"
+
+#: kalimah-shortcodes.php:925 kalimah-shortcodes.php:1097 
+#: kalimah-shortcodes.php:1134 kalimah-shortcodes.php:1386 
+#: kalimah-shortcodes.php:1481 kalimah-shortcodes.php:1601 
+#: kalimah-shortcodes.php:1767 kalimah-shortcodes.php:1830 
+#: kalimah-shortcodes.php:1966 kalimah-shortcodes.php:2095 
+#: kalimah-shortcodes.php:2316 kalimah-shortcodes.php:2504 
+#: kalimah-shortcodes.php:2524 kalimah-shortcodes.php:2621 
+#: kalimah-shortcodes.php:3133 kalimah-shortcodes.php:3310 
+#: kalimah-shortcodes.php:3521 kalimah-shortcodes.php:3785 
+#: kalimah-shortcodes.php:4011
+msgid "Style"
+msgstr "النمط"
+
+#: kalimah-shortcodes.php:931
+msgid "No Style"
+msgstr "لا نمط"
+
+#: kalimah-shortcodes.php:932 kalimah-shortcodes.php:1103 
+#: kalimah-shortcodes.php:1141 kalimah-shortcodes.php:1392 
+#: kalimah-shortcodes.php:1486 kalimah-shortcodes.php:1773 
+#: kalimah-shortcodes.php:1836 kalimah-shortcodes.php:1972 
+#: kalimah-shortcodes.php:2051 kalimah-shortcodes.php:2101 
+#: kalimah-shortcodes.php:2510 kalimah-shortcodes.php:2530 
+#: kalimah-shortcodes.php:2627 kalimah-shortcodes.php:3138 
+#: kalimah-shortcodes.php:3314 kalimah-shortcodes.php:3527 
+#: kalimah-shortcodes.php:3790 kalimah-shortcodes.php:4016
+msgid "First Style"
+msgstr "النمط الأول"
+
+#: kalimah-shortcodes.php:933 kalimah-shortcodes.php:1104 
+#: kalimah-shortcodes.php:1142 kalimah-shortcodes.php:1393 
+#: kalimah-shortcodes.php:1487 kalimah-shortcodes.php:1774 
+#: kalimah-shortcodes.php:1837 kalimah-shortcodes.php:1973 
+#: kalimah-shortcodes.php:2052 kalimah-shortcodes.php:2102 
+#: kalimah-shortcodes.php:2511 kalimah-shortcodes.php:2531 
+#: kalimah-shortcodes.php:2628 kalimah-shortcodes.php:3139 
+#: kalimah-shortcodes.php:3314 kalimah-shortcodes.php:3528 
+#: kalimah-shortcodes.php:3791 kalimah-shortcodes.php:4017
+msgid "Second Style"
+msgstr "النمط الثاني"
+
+#: kalimah-shortcodes.php:934 kalimah-shortcodes.php:1105 
+#: kalimah-shortcodes.php:1143 kalimah-shortcodes.php:1488 
+#: kalimah-shortcodes.php:1775 kalimah-shortcodes.php:1838 
+#: kalimah-shortcodes.php:1974 kalimah-shortcodes.php:2053 
+#: kalimah-shortcodes.php:2512 kalimah-shortcodes.php:2532 
+#: kalimah-shortcodes.php:3140 kalimah-shortcodes.php:3314 
+#: kalimah-shortcodes.php:3529 kalimah-shortcodes.php:3792 
+#: kalimah-shortcodes.php:4018
+msgid "Third Style"
+msgstr "النمط الثالث"
+
+#: kalimah-shortcodes.php:938 kalimah-shortcodes.php:2536
+msgid "Align"
+msgstr "الإتجاه"
+
+#: kalimah-shortcodes.php:944 kalimah-shortcodes.php:1986 
+#: kalimah-shortcodes.php:2542 kalimah-shortcodes.php:3286 
+#: kalimah-shortcodes.php:3885
+msgid "Left"
+msgstr "يسار"
+
+#: kalimah-shortcodes.php:945 kalimah-shortcodes.php:1984 
+#: kalimah-shortcodes.php:2543 kalimah-shortcodes.php:3286 
+#: kalimah-shortcodes.php:3903
+msgid "Right"
+msgstr "يمين"
+
+#: kalimah-shortcodes.php:946 kalimah-shortcodes.php:1762
+msgid "Center"
+msgstr "منتصف"
+
+#: kalimah-shortcodes.php:952 kalimah-shortcodes.php:1427
+msgid "Margin"
+msgstr "الهامش"
+
+#: kalimah-shortcodes.php:979 kalimah-shortcodes.php:1367 
+#: kalimah-shortcodes.php:1906 kalimah-shortcodes.php:2383 
+#: kalimah-shortcodes.php:3573
+msgid "Text"
+msgstr "النص"
+
+#: kalimah-shortcodes.php:1144 kalimah-shortcodes.php:1776 
+#: kalimah-shortcodes.php:1839 kalimah-shortcodes.php:2054 
+#: kalimah-shortcodes.php:2513 kalimah-shortcodes.php:3530 
+#: kalimah-shortcodes.php:4019
+msgid "Fourth Style"
+msgstr "النمط الرابع"
+
+#: kalimah-shortcodes.php:1237
+msgid "Environment Specific Content"
+msgstr "محتوى مرتبط بالبيئة"
+
+#: kalimah-shortcodes.php:1242
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
+#: kalimah-shortcodes.php:1246 kalimah-shortcodes.php:1266 
+#: kalimah-shortcodes.php:1285 kalimah-shortcodes.php:1296 
+#: kalimah-shortcodes.php:1312
+msgid "All"
+msgstr "الكل"
+
+#: kalimah-shortcodes.php:1247
+msgid "Windows 10"
+msgstr "ويندوز 10"
+
+#: kalimah-shortcodes.php:1248
+msgid "Windows 8"
+msgstr "ويندوز 8"
+
+#: kalimah-shortcodes.php:1249
+msgid "Windows 7"
+msgstr "ويندوز 7"
+
+#: kalimah-shortcodes.php:1250
+msgid "Windows VISTA"
+msgstr "ويندوز فيستا"
+
+#: kalimah-shortcodes.php:1251
+msgid "Windows Phone"
+msgstr "ويندوز فون"
+
+#: kalimah-shortcodes.php:1252
+msgid "Mac OS X"
+msgstr "ماك او اس اكس"
+
+#: kalimah-shortcodes.php:1253
+msgid "Mac OS 9"
+msgstr "ماك او اس 9"
+
+#: kalimah-shortcodes.php:1254
+msgid "Linux"
+msgstr "لينكس"
+
+#: kalimah-shortcodes.php:1255
+msgid "Ubuntu"
+msgstr "اوبنتو"
+
+#: kalimah-shortcodes.php:1256
+msgid "Android"
+msgstr "أندرويد"
+
+#: kalimah-shortcodes.php:1257 kalimah-shortcodes.php:1302
+msgid "BlackBerry"
+msgstr "بلاكبيري"
+
+#: kalimah-shortcodes.php:1262
+msgid "Browser"
+msgstr "المتصفح"
+
+#: kalimah-shortcodes.php:1267
+msgid "FireFox"
+msgstr "فايرفوكس"
+
+#: kalimah-shortcodes.php:1269
+msgid "Edge"
+msgstr "ايدج"
+
+#: kalimah-shortcodes.php:1270
+msgid "Internet Explorer 11"
+msgstr "انترنت اكسبلورر 11"
+
+#: kalimah-shortcodes.php:1271 kalimah-shortcodes.php:1272
+msgid "Internet Explorer 10"
+msgstr "انترنت اكسبلورر 10"
+
+#: kalimah-shortcodes.php:1274
+msgid "Opera"
+msgstr "أوبرا"
+
+#: kalimah-shortcodes.php:1275
+msgid "Netscape"
+msgstr "نيتسكيب"
+
+#: kalimah-shortcodes.php:1276
+msgid "Konqueror"
+msgstr "كونكور"
+
+#: kalimah-shortcodes.php:1281
+msgid "Device"
+msgstr "الجهاز"
+
+#: kalimah-shortcodes.php:1286
+msgid "Computer"
+msgstr "كمبيوتر"
+
+#: kalimah-shortcodes.php:1287
+msgid "Tablet"
+msgstr "جهاز لوحي"
+
+#: kalimah-shortcodes.php:1288
+msgid "Phone"
+msgstr "موبايل"
+
+#: kalimah-shortcodes.php:1292
+msgid "Brand"
+msgstr "العلامة التجارية أو الشركة"
+
+#: kalimah-shortcodes.php:1297
+msgid "Samsung"
+msgstr "سامسونج"
+
+#: kalimah-shortcodes.php:1298
+msgid "iPhone"
+msgstr "آيفون"
+
+#: kalimah-shortcodes.php:1300
+msgid "LG"
+msgstr "ال جي"
+
+#: kalimah-shortcodes.php:1301
+msgid "Nokia"
+msgstr "نوكيا"
+
+#: kalimah-shortcodes.php:1303
+msgid "Kindle"
+msgstr "كيندل"
+
+#: kalimah-shortcodes.php:1308
+msgid "Continent"
+msgstr "القارة"
+
+#: kalimah-shortcodes.php:1313
+msgid "Asia"
+msgstr "آسيا"
+
+#: kalimah-shortcodes.php:1314
+msgid "Africa"
+msgstr "أفريقيا"
+
+#: kalimah-shortcodes.php:1315
+msgid "North America"
+msgstr "أمريكا الشمالية"
+
+#: kalimah-shortcodes.php:1316
+msgid "South America"
+msgstr "أمريكا الجنوبية"
+
+#: kalimah-shortcodes.php:1317
+msgid "Europe"
+msgstr "أوروبا"
+
+#: kalimah-shortcodes.php:1318
+msgid "Oceania"
+msgstr "أستراليا"
+
+#: kalimah-shortcodes.php:1319
+msgid "Antarctica"
+msgstr "أنتارتيكا"
+
+#: kalimah-shortcodes.php:1324
+msgid "Content Type"
+msgstr "نوع المحتوى"
+
+#: kalimah-shortcodes.php:1328
+msgid "General"
+msgstr "عام"
+
+#: kalimah-shortcodes.php:1329
+msgid "CSS"
+msgstr "نمط CSS"
+
+#: kalimah-shortcodes.php:1379
+msgid "Default"
+msgstr "الإفتراضي"
+
+#: kalimah-shortcodes.php:1380 kalimah-shortcodes.php:3682
+msgid "Dotted"
+msgstr "منقط"
+
+#: kalimah-shortcodes.php:1381 kalimah-shortcodes.php:3683
+msgid "Dashed"
+msgstr "متقطع"
+
+#: kalimah-shortcodes.php:1382 kalimah-shortcodes.php:3684
+msgid "Double"
+msgstr "مزودج"
+
+#: kalimah-shortcodes.php:1398 kalimah-shortcodes.php:3688
+msgid "Divider Color"
+msgstr "لون الفاصل"
+
+#: kalimah-shortcodes.php:1405
+msgid "Target Anchor"
+msgstr "العلامة المرجعية المتسهدفة"
+
+#: kalimah-shortcodes.php:1471
+msgid "Shadow"
+msgstr "ظل"
+
+#: kalimah-shortcodes.php:1472
+msgid "Info"
+msgstr "معلومات"
+
+#: kalimah-shortcodes.php:1473
+msgid "Success"
+msgstr "نجاح"
+
+#: kalimah-shortcodes.php:1474
+msgid "Warning"
+msgstr "تحذير"
+
+#: kalimah-shortcodes.php:1475
+msgid "Error"
+msgstr "خطأ"
+
+#: kalimah-shortcodes.php:1476
+msgid "Download"
+msgstr "تحميل"
+
+#: kalimah-shortcodes.php:1477
+msgid "Note"
+msgstr "ملاحظة"
+
+#: kalimah-shortcodes.php:1528
+msgid "Dismissable"
+msgstr "يمكن إغلاقه"
+
+#: kalimah-shortcodes.php:1595 kalimah-shortcodes.php:2841
+msgid "Small"
+msgstr "صغير"
+
+#: kalimah-shortcodes.php:1596 kalimah-shortcodes.php:2842
+msgid "Medium"
+msgstr "متوسط"
+
+#: kalimah-shortcodes.php:1597
+msgid "Large"
+msgstr "كبير"
+
+#: kalimah-shortcodes.php:1607
+msgid "Flat"
+msgstr "مسطّح"
+
+#: kalimah-shortcodes.php:1608
+msgid "Gradient"
+msgstr "تدرج"
+
+#: kalimah-shortcodes.php:1609
+msgid "3D"
+msgstr "ثلاثي الأبعاج"
+
+#: kalimah-shortcodes.php:1620
+msgid "New Window"
+msgstr "نافذة جديدة"
+
+#: kalimah-shortcodes.php:1664 kalimah-shortcodes.php:2174 
+#: kalimah-shortcodes.php:3731 kalimah-shortcodes.php:3953
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: kalimah-shortcodes.php:1665 kalimah-shortcodes.php:2175 
+#: kalimah-shortcodes.php:3732 kalimah-shortcodes.php:3954
+msgid "Vertical"
+msgstr "عمودي"
+
+#: kalimah-shortcodes.php:1708
+msgid "Active tab bg color"
+msgstr "خلفية اللسان النشط"
+
+#: kalimah-shortcodes.php:1715
+msgid "Active tab text color"
+msgstr "لون نص اللسان النشط"
+
+#: kalimah-shortcodes.php:1722
+msgid "Tabs bg color"
+msgstr "لون خلفية الألسنة"
+
+#: kalimah-shortcodes.php:1729
+msgid "Tabs text color"
+msgstr "لون نص الألسنة"
+
+#: kalimah-shortcodes.php:1742 kalimah-shortcodes.php:2187 
+#: kalimah-shortcodes.php:3150
+msgid "Fade"
+msgstr "تلاشي"
+
+#: kalimah-shortcodes.php:1743 kalimah-shortcodes.php:2188 
+#: kalimah-shortcodes.php:3151
+msgid "Vanish"
+msgstr "تلاشي"
+
+#: kalimah-shortcodes.php:1744 kalimah-shortcodes.php:2189 
+#: kalimah-shortcodes.php:3152
+msgid "Perspective"
+msgstr "منظور"
+
+#: kalimah-shortcodes.php:1745 kalimah-shortcodes.php:2190 
+#: kalimah-shortcodes.php:3153
+msgid "Space"
+msgstr "فضائي"
+
+#: kalimah-shortcodes.php:1746 kalimah-shortcodes.php:2191 
+#: kalimah-shortcodes.php:3154
+msgid "Roll"
+msgstr "دحرجة"
+
+#: kalimah-shortcodes.php:1747 kalimah-shortcodes.php:2192 
+#: kalimah-shortcodes.php:3155
+msgid "Rotate"
+msgstr "إستدارة"
+
+#: kalimah-shortcodes.php:1748 kalimah-shortcodes.php:2193
+msgid "Slide"
+msgstr "تزحلق"
+
+#: kalimah-shortcodes.php:1749 kalimah-shortcodes.php:2194 
+#: kalimah-shortcodes.php:3158
+msgid "Tin"
+msgstr "اهتزاز"
+
+#: kalimah-shortcodes.php:1750 kalimah-shortcodes.php:2195 
+#: kalimah-shortcodes.php:3159
+msgid "Twist"
+msgstr "إلتواء"
+
+#: kalimah-shortcodes.php:1751 kalimah-shortcodes.php:3160
+msgid "Hinge"
+msgstr "تعليق"
+
+#: kalimah-shortcodes.php:1755
+msgid "Tabs Align"
+msgstr "إتجاه الألسنة"
+
+#: kalimah-shortcodes.php:1761
+msgctxt "tabs"
+msgid "Start"
+msgstr "البداية"
+
+#: kalimah-shortcodes.php:1763
+msgctxt "tabs"
+msgid "End"
+msgstr "النهاية"
+
+#: kalimah-shortcodes.php:1777 kalimah-shortcodes.php:1840 
+#: kalimah-shortcodes.php:3531 kalimah-shortcodes.php:4020
+msgid "Fifth Style"
+msgstr "النمط الخامس"
+
+#: kalimah-shortcodes.php:1778 kalimah-shortcodes.php:1841
+msgid "Sixth Style"
+msgstr "النمط السادس"
+
+#: kalimah-shortcodes.php:1825
+msgid "Pricing Tables"
+msgstr "جداول الأسعار"
+
+#: kalimah-shortcodes.php:1851
+msgid "Tables"
+msgstr "الجداول"
+
+#: kalimah-shortcodes.php:1869 kalimah-shortcodes.php:1952 
+#: kalimah-shortcodes.php:2030 kalimah-shortcodes.php:2120 
+#: kalimah-shortcodes.php:2199 kalimah-shortcodes.php:2343 
+#: kalimah-shortcodes.php:3469 kalimah-shortcodes.php:4119 
+#: kalimah-shortcodes.php:4375
+msgid "Color"
+msgstr "لون"
+
+#: kalimah-shortcodes.php:1870
+msgid "Price"
+msgstr "السعر"
+
+#: kalimah-shortcodes.php:1871
+msgid "Unit"
+msgstr "الوحدة"
+
+#: kalimah-shortcodes.php:1872
+msgid "Special Text"
+msgstr "نص خاص"
+
+#: kalimah-shortcodes.php:1873
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: kalimah-shortcodes.php:1911
+msgid "Tooltip Text"
+msgstr "نص التلميح"
+
+#: kalimah-shortcodes.php:1978
+msgid "Position"
+msgstr "الموقع"
+
+#: kalimah-shortcodes.php:1983 kalimah-shortcodes.php:3849
+msgid "Top"
+msgstr "أعلى"
+
+#: kalimah-shortcodes.php:1985 kalimah-shortcodes.php:3867
+msgid "Bottom"
+msgstr "أسفل"
+
+#: kalimah-shortcodes.php:2002
+msgid "Tooltip Content"
+msgstr "محتوى التلميح"
+
+#: kalimah-shortcodes.php:2044
+msgid "Hover Style"
+msgstr "نمط التمرير"
+
+#: kalimah-shortcodes.php:2259
+msgid "Highlight type"
+msgstr "نوع التسليط"
+
+#: kalimah-shortcodes.php:2266
+msgid "Underline"
+msgstr "خط سفلي"
+
+#: kalimah-shortcodes.php:2271
+msgid "Highlight Color"
+msgstr "لون التسليط"
+
+#: kalimah-shortcodes.php:2295
+msgid "Highlighted text"
+msgstr "لون التسليط"
+
+#: kalimah-shortcodes.php:2387
+msgid "This content is restricted for members only. Please %login% to view"
+msgstr "هذا المحتوى مخصص للأعضاء فقط. الرجاء %تسجيل الدخول% لعرض المحتوى"
+
+#: kalimah-shortcodes.php:2391
+msgid "Login link text"
+msgstr "نص تسجيل الدخول"
+
+#: kalimah-shortcodes.php:2395
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: kalimah-shortcodes.php:2398
+msgid "Login link"
+msgstr "رابط تسجيل الدخول"
+
+#: kalimah-shortcodes.php:2475
+msgid "Cite"
+msgstr "المصدر"
+
+#: kalimah-shortcodes.php:2481
+msgid "Cite url"
+msgstr "رابط المصدر"
+
+#: kalimah-shortcodes.php:2487
+msgid "Quote type"
+msgstr "نوع الإقتباس"
+
+#: kalimah-shortcodes.php:2493
+msgid "Block Quote"
+msgstr "كامل"
+
+#: kalimah-shortcodes.php:2494
+msgid "Pull Quote"
+msgstr "جانبي"
+
+#: kalimah-shortcodes.php:2642
+msgid "D"
+msgstr "أ"
+
+#: kalimah-shortcodes.php:2663 kalimah-shortcodes.php:2735 
+#: kalimah-shortcodes.php:2875 kalimah-shortcodes.php:2936 
+#: kalimah-shortcodes.php:3021
+msgid "Url"
+msgstr "الرابط"
+
+#: kalimah-shortcodes.php:2704 kalimah-shortcodes.php:2776 
+#: kalimah-shortcodes.php:2906 kalimah-shortcodes.php:2977 
+#: kalimah-shortcodes.php:3062 kalimah-shortcodes.php:3193
+msgid "Auto Play"
+msgstr "تشغيل تلقائي"
+
+#: kalimah-shortcodes.php:2806
+msgid "User ID"
+msgstr "معرف المستخدم"
+
+#: kalimah-shortcodes.php:2807
+msgid "Get Flicker ID"
+msgstr "احصل على معرف الفليكر"
+
+#: kalimah-shortcodes.php:2813
+msgid "Order By"
+msgstr "ترتيب بـ"
+
+#: kalimah-shortcodes.php:2819
+msgid "Latest Posts"
+msgstr "آخر المشاركات"
+
+#: kalimah-shortcodes.php:2820
+msgid "Random Posts"
+msgstr "مشاركات عشوائية"
+
+#: kalimah-shortcodes.php:2831
+msgid "Photos"
+msgstr "صور"
+
+#: kalimah-shortcodes.php:2834
+msgid "Photo Size"
+msgstr "حجم الصور"
+
+#: kalimah-shortcodes.php:2840
+msgid "Thumbnail"
+msgstr "الصورة المصغرة"
+
+#: kalimah-shortcodes.php:2846
+msgid "Flickr Size"
+msgstr "الحجم"
+
+#: kalimah-shortcodes.php:2983
+msgid "Add Border"
+msgstr "إظهار الحدود"
+
+#: kalimah-shortcodes.php:2990
+msgid "Add Shadow"
+msgstr "إظهار الظل"
+
+#: kalimah-shortcodes.php:3145
+msgid "Transition"
+msgstr "الإنتقال"
+
+#: kalimah-shortcodes.php:3156
+msgid "Slide Vertical"
+msgstr "تزحلق عمودي"
+
+#: kalimah-shortcodes.php:3157
+msgid "Slide Horizontal"
+msgstr "تزحلق أفقي"
+
+#: kalimah-shortcodes.php:3165
+msgid "Transition Interval"
+msgstr "الفاصل بين الانتقال"
+
+#: kalimah-shortcodes.php:3174
+msgid "Show Controls"
+msgstr "إظهار أزار التحكم"
+
+#: kalimah-shortcodes.php:3180 kalimah-shortcodes.php:3397
+msgid "Show Title"
+msgstr "إظهار العنوان"
+
+#: kalimah-shortcodes.php:3187
+msgid "Display Bar"
+msgstr "عرض الشريط"
+
+#: kalimah-shortcodes.php:3267
+msgid "Open Icon"
+msgstr "أيقونة الإغلاق"
+
+#: kalimah-shortcodes.php:3274
+msgid "Close Icon"
+msgstr "أيقونة الفتح"
+
+#: kalimah-shortcodes.php:3281
+msgid "Icon Alignment"
+msgstr "مكان الايقونة"
+
+#: kalimah-shortcodes.php:3290
+msgid "Opened"
+msgstr "مفتوح"
+
+#: kalimah-shortcodes.php:3348
+msgid "Address"
+msgstr "العنوان"
+
+#: kalimah-shortcodes.php:3390
+msgid "Show Marker"
+msgstr "إظهار العلامة"
+
+#: kalimah-shortcodes.php:3404
+msgid "Map Type"
+msgstr "نوع الخريطة"
+
+#: kalimah-shortcodes.php:3410
+msgid "Roadmap"
+msgstr "طرائقي"
+
+#: kalimah-shortcodes.php:3411
+msgid "Satellite"
+msgstr "ساتالايت"
+
+#: kalimah-shortcodes.php:3412
+msgid "Hybrid"
+msgstr "مزودج"
+
+#: kalimah-shortcodes.php:3413
+msgid "Terrain"
+msgstr "تضاريس"
+
+#: kalimah-shortcodes.php:3417
+msgid "Zoom"
+msgstr "التکبیر"
+
+#: kalimah-shortcodes.php:3455
+msgid "Paragraphs"
+msgstr "فقرات"
+
+#: kalimah-shortcodes.php:3456
+msgid "Words"
+msgstr "كلمات"
+
+#: kalimah-shortcodes.php:3461
+msgid "Amount"
+msgstr "الكمية"
+
+#: kalimah-shortcodes.php:3503
+msgid "Current Author"
+msgstr "الكاتب الحالي"
+
+#: kalimah-shortcodes.php:3512
+msgid "Author Name"
+msgstr "اسم الكاتب"
+
+#: kalimah-shortcodes.php:3580
+msgid "Show Text"
+msgstr "إظهار النص"
+
+#: kalimah-shortcodes.php:3649 kalimah-shortcodes.php:4328
+msgid "Counter"
+msgstr "العداد"
+
+#: kalimah-shortcodes.php:3657
+msgid "Gap"
+msgstr "الفراغ"
+
+#: kalimah-shortcodes.php:3666
+msgid "Divider Width"
+msgstr "عرض الفاصل"
+
+#: kalimah-shortcodes.php:3675
+msgid "Divider Type"
+msgstr "نوع الفاصل"
+
+#: kalimah-shortcodes.php:3681
+msgid "Solid"
+msgstr "ثابت"
+
+#: kalimah-shortcodes.php:3943
+msgid "Progress Bars"
+msgstr "أشرطة التقدم"
+
+#: kalimah-shortcodes.php:3955
+msgid "Circular"
+msgstr "دائري"
+
+#: kalimah-shortcodes.php:4002
+msgid "Percentage"
+msgstr "النسبة المئوية"
+
+#: kalimah-shortcodes.php:4032
+msgid "Show Percentage"
+msgstr "إظهار النسبة"
+
+#: kalimah-shortcodes.php:4039
+msgid "Striped"
+msgstr "مخطط"
+
+#: kalimah-shortcodes.php:4046
+msgid "Animated"
+msgstr "محرّك"
+
+#: kalimah-shortcodes.php:4111
+msgid "Background Type"
+msgstr "نوع الخلفية"
+
+#: kalimah-shortcodes.php:4117 kalimah-shortcodes.php:4137
+msgid "Pattern"
+msgstr "نمط"
+
+#: kalimah-shortcodes.php:4275
+msgid "Video Url"
+msgstr "رابط لفيديو"
+
+#: kalimah-shortcodes.php:4300
+msgid "Enable parallax"
+msgstr "تفعيل الـ parallax"
+
+#: kalimah-shortcodes.php:4333
+msgctxt "counter"
+msgid "Start"
+msgstr "البدء من"
+
+#: kalimah-shortcodes.php:4340
+msgctxt "counter"
+msgid "End"
+msgstr "انتهاء لـ"
+
+#: kalimah-shortcodes.php:4347
+msgid "Prefix"
+msgstr "السابقة"
+
+#: kalimah-shortcodes.php:4354
+msgid "Suffix"
+msgstr "اللاحقة"
+
+#: kalimah-shortcodes.php:4361
+msgid "Text above"
+msgstr "النص في الأعلى"
+
+#: kalimah-shortcodes.php:4368
+msgid "Text below"
+msgstr "النص في الأسفل"
+
+#: kalimah-shortcodes.php:4383
+msgid "Zero Padding"
+msgstr "بدون تبطين"
+
+#: kalimah-shortcodes.php:4390
+msgid "Add Comma"
+msgstr "إظهار الفاصلة"
+
+#: kalimah-shortcodes.php:4397
+msgid "Animation Speed"
+msgstr "سرعة الحركة"
+
+#: kalimah-shortcodes.php:4398
+msgid "The total speed of entire animation"
+msgstr "سرعة الحركة الكاملة"
+
+#: kalimah-shortcodes.php:5402
+msgid "Author:"
+msgstr "الكاتب:"
+
+#. Name of the plugin
+msgid "Kalimah Shortcodes"
+msgstr "مختصرات كلمة"
+
+#. Author of the plugin
+msgid "Kalimah Apps"
+msgstr "تطبيقات كلمة"

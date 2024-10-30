@@ -1,0 +1,192 @@
+.kalimah_icons_picker {
+  background-color: #cdcdcd;
+  border: 1px solid #848484;
+  border-radius: 3px;
+  display: none;
+  min-height: 300px;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+  z-index: 1;
+}
+
+.kalimah_icons_picker .icons {
+  margin-left: 2px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.kalimah_icons_picker .icons_wrapper,
+.kalimah_icons_picker .icons_search_wrapper {
+  color: white;
+  font-size: 0;
+  min-height: 220px;
+  transition: all 0.5s ease 0s;
+  white-space: nowrap;
+}
+
+.kalimah_icons_picker .icons_wrapper > div,
+.kalimah_icons_picker .icons_search_wrapper > div{
+  display: inline-block;
+  height: 100%;
+  padding: 0;
+  vertical-align: top;
+  width: 100%;
+}
+
+.kalimah_icons_picker .icons_search_wrapper {
+  display: none;
+}
+
+.kalimah_icons_picker *:not(input) {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Chrome/Safari/Opera */
+  -khtml-user-select: none;
+  /* Konqueror */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version*/
+}
+
+
+.kalimah_icons_picker .icons_wrapper > div > span, .kalimah_icons_picker .icons_search_wrapper > div > span {
+  background-color: white !important;
+  border: 0 solid !important;
+  box-sizing: border-box;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  float: left;
+  height: 28px;
+  line-height: 10px;
+  margin: 2px;
+  padding: 8px;
+  text-align: center;
+  transition: transform 0.3s ease 0s, background-color 0.5s ease 0s;
+  width: 28px;
+  z-index: 0;
+}
+
+
+.kalimah_icons_picker .icons_wrapper > div > span:hover,
+.kalimah_icons_picker .icons_search_wrapper > div > span:hover {
+  background-color: black !important;
+  border: 1px solid #2c2a2a;
+  color: white !important;
+  transform: scale(1.5);
+  z-index: 1;
+}
+
+.kalimah_icons_picker .icons_wrapper > div > span::before,
+.kalimah_icons_picker .icons_search_wrapper > div > span::before {
+  font-size: 13px;
+  transition: all 0.3s ease 0s;
+}
+
+.kalimah_icons_picker .icons_wrapper > div > span:hover::before,
+.kalimah_icons_picker .icons_search_wrapper > div > span:hover::before{
+  color: white !important;
+}
+
+.kalimah_icons_picker .icons_prev,
+.kalimah_icons_picker .icons_next {
+  cursor: pointer;
+  flex-grow: 1;
+  float: left;
+  text-align: center;
+  padding: 0 5px 0 0px;
+  font-size: 20px;
+  color: black;
+}
+
+.kalimah_icons_picker .icons_search {
+  padding: 5px 0;
+  width: 100%;
+}
+
+.kalimah_icons_picker .icons_search input {
+  border: 1px solid;
+  padding: 4px !important;
+  width: 100%;
+}
+
+.kalimah_icons_picker .icons_navigtation {
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.kalimah_icons_picker .icons_pagination {
+  align-content: center;
+  box-sizing: padding-box;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 13;
+  font-size: 13px;
+  font-weight: bold;
+  height: 100%;
+  justify-content: center;
+  padding: 2px 0;
+  text-align: center;
+}
+
+.kalimah_icons_picker .fa::before, .kalimah_icons_picker .dashicons {
+  border-width: 0 !important;
+  color: #3e3d3d !important;
+  font-size: 17px;
+}
+
+.kalimah_icons_picker .icons_types {
+  display: flex;
+  flex-direction: row;
+  padding: 0 5px;
+}
+
+.kalimah_icons_picker .icons_types > span:first-of-type {
+  flex-grow: 4;
+  text-align: left;
+}
+
+.kalimah_icons_picker .icons_types > span,
+.kalimah_icons_picker .icons_types > span::before {
+  align-self: center;
+  color: gray !important;
+  cursor: pointer;
+  flex: 1 1 0;
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+  transition: all 0.3s ease 0s;
+}
+
+.kalimah_icons_picker .icons_types > span.active::before,
+.kalimah_icons_picker .icons_types > span.active,
+.kalimah_icons_picker .icons_types > span:hover,
+.kalimah_icons_picker .icons_types > span:hover::before {
+  color: black !important;
+}
+
+.kalimah_icons_picker .icons_wrapper > div > div[class^='ion-'],
+.kalimah_icons_picker .icons_search_wrapper > div > div[class^='ion-'] {
+  font-size: 18px;
+}
+
+
+.kalimah_icons_picker_wrapper [class^="ti-"]::before {
+	font-family: "themify";
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: 1;
+	text-align: center;
+	text-transform: none;
+}

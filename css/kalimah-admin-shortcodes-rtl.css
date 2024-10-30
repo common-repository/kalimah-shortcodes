@@ -1,0 +1,157 @@
+.kalimah-shortcodes-header > .kalimah-displayed-shortcode span {
+  float: right;
+}
+
+.kalimah-shortcodes-header *,
+.kalimah-shortcode-body * {
+  text-align: justify;
+  font-family: droid !important;
+}
+
+
+.kalimah-shortcodes-header .fa,
+.kalimah-shortcode-body .fa
+{
+  font-family: FontAwesome !important;
+}
+
+.kalimah-shortcode-body .dashicons
+{
+  font-family: dashicons !important;
+}
+
+.kalimah-shortcode-list-container .fa::before, .kalimah-shortcode-list-container [class^="ti-"]::before {
+  float: right;
+  padding: 3px 0 0 8px !important;
+}
+
+.kalimah-shortcode-list-container li .text {
+  float: right;
+}
+
+.kalimah-settings-section-start .form-title {
+  float: right;
+  margin-left: 7%;
+  margin-right: 0;
+}
+
+.kalimah-settings-section-start .form-bit {
+  float: right;
+}
+
+.kalimah-settings-range input[type="range"] {
+  float: right;
+}
+
+.kalimah-settings-range .data-slider-units.multiple span {
+  left: unset;
+  right: 3px;
+}
+
+.kalimah-shortcodes-header .fa::before, .kalimah-shortcodes-header [class^="ti-"]::before {
+  float: right;
+  padding: 4px 10px 0 15px !important;
+}
+
+.kalimah-shortcodes-accordions div .delete {
+  float: left;
+}
+
+.kalimah-shortcodes-accordions div .dashicons-yes {
+  float: left;
+}
+
+.colpick_hex_field input {
+  left: 4px;
+  right: unset;
+}
+
+.kalimah-shortcodes-tabs-container > div .dashicons-yes {
+  float: left;
+}
+
+.kalimah-shortcodes-tabs-container > div .delete {
+  float: left;
+}
+
+.kalimah-shortcodes-tabs-container .kalimah_icons_picker_wrapper {
+  float: right;
+}
+
+.thickbox.button i::before
+{
+	margin: 2px 0px 0px 10px;
+	font-family: "themify";
+	font-style: normal;
+	
+}
+
+.kalimah-shortcodes-btn-text
+{
+	font-family: droid;
+}
+
+.data-slider-units.no-select {
+  margin-right: 5px;
+}
+
+.kalimah-settings-images .image-selector {
+  float: right;
+}
+
+.colpick_hue_larr {
+  left: 0;
+}
+
+.colpick_hex_field input {
+  left: 4px;
+  right: unset;
+}
+
+.kalimah-shortcode-list-container span[class^="ion-"]::before {
+  float: right;
+  padding-left: 5px;
+  padding-right: 0px;
+}
+
+.kalimah-shortcode-list-container li {
+  float: right;
+}
+
+.kalimah_icons_picker_wrapper {
+  float: right;
+  padding-left: 10px;
+}
+
+.kalimah-shortcodes-sections-container > div .delete {
+  float: left;
+}
+
+.kalimah-shortcodes-sections-container > div .dashicons-yes {
+  float: left;
+}
+
+
+.kalimah-shortcodes-sections .add_section {
+  border-right: 1px solid #9d9d9d;
+  border-left: 0px solid transparent;
+  left: 0;
+  right: unset;
+}
+
+
+.add_section_wrapper input {
+  padding-left: 50px !important;
+  padding-right: 10px !important;
+}
+
+.kalimah-shortcodes-button {
+  float: left;
+}
+
+.kalimah-shortcodes-sections-container > div .dashicons-yes {
+  float: left;
+  font-size: 25px;
+  margin-right: 5px;
+  margin-left: unset;
+}

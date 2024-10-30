@@ -1,0 +1,349 @@
+@font-face {
+	font-family: 'DroidNaskh';
+  src: url('../fonts/DroidNaskh-Regular.eot?v=4.4.0');
+  src: url('../fonts/DroidNaskh-Regular.eot?#iefix&v=4.4.0') format('embedded-opentype'), url('../fonts/DroidNaskh-Regular.woff2?v=4.4.0') format('woff2'), url('../fonts/DroidNaskh-Regular.woff?v=4.4.0') format('woff'), url('../fonts/DroidNaskh-Regular.ttf?v=4.4.0') format('truetype'), url('../fonts/DroidNaskh-Regular.svg?v=4.4.0#DroidNaskhRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.kalimah-shortcodes *
+{
+	font-family:  'DroidNaskh' !important;
+}
+
+.kalimah-shortcodes-quote.block.first-style::before
+{
+	content: "”";
+	right: 5px;
+	left: unset;
+}
+
+.kalimah-shortcodes-quote.block.first-style {
+  border-left: 0 solid transparent;
+  border-right: 10px solid;
+  font-style: unset;
+}
+
+.kalimah-shortcodes-quote.block cite
+{
+	margin-top: 0;
+	text-align: left;
+}
+
+.kalimah-shortcodes-quote.block.second-style .quote-body {
+  margin-right: 120px;
+  margin-left: 0;
+}
+
+.kalimah-shortcodes-quote.block.second-style .quote-body::before {
+  left: calc(100% + 50px);
+right: unset;
+}
+
+.kalimah-shortcodes-quote.block.third-style .quote-body::before {
+  left: 20px;
+  right: unset;
+}
+
+.kalimah-shortcodes-quote.block.fourth-style cite::before {
+  left: 10px;
+  right: unset;
+  font-style: italic;
+  top: -10px;
+}
+
+.kalimah-shortcodes-quote.block.fourth-style .quote-body
+{
+	padding: 18px;
+}
+
+.kalimah-shortcodes-quote.pull cite {
+  display: block;
+  margin: 0;
+  text-align: left;
+}
+
+.kalimah-shortcodes-quote.pull.third-style .quote-body {
+  padding: 15px 75px 0 0;
+}
+
+/* Heading */
+.kalimah-shortcodes-heading.third-style::after {
+  right: 0;
+  left: unset;
+}
+
+.kalimah-shortcodes-heading i {
+  padding-left: 10px;
+  padding-right: 0px;
+}
+
+/* Dropcap*/
+.kalimah-shortcodes-dropcap.first-style,
+.kalimah-shortcodes-dropcap.second-style{
+  float: right;
+  margin: 0 0 0 15px;
+}
+
+/* Spoiler*/
+.kalimah-shortcodes-spoiler.second-style
+{
+	border-left: 0px solid transparent;
+	border-right: 5px solid;
+}
+
+.kalimah-shortcodes-spoiler.third-style .kalimah-shortcodes-spoiler-title {
+  border-right: 15px solid;
+  border-left: 0px solid transparent;
+}
+
+/* Author */
+.kalimah-shortcodes-author
+{
+	float: right;
+}
+
+.kalimah-shortcodes-author.third-style .kalimah-shortcodes-author-name {
+  padding: 8px 10px;
+}
+
+/* Progress Bar */
+.kalimah-shortcodes-progress-bar .kalimah-progress-bar-heading {
+  letter-spacing: 0 !important;
+}
+
+.kalimah-shortcodes-progress-bar .kalimah-progress-bar-element-color
+{
+	float: right !important;
+}
+
+.kalimah-shortcodes-progress-bar.first-style .kalimah-progress-bar-element-color span {
+  right: unset;
+  left: 4px;
+}
+
+.kalimah-shortcodes-progress-bar.second-style .kalimah-progress-bar-element-color span {
+  left: -13px;
+  right: unset;
+}
+
+.kalimah-shortcodes-progress-bar.third-style .kalimah-progress-bar-heading {
+  right: 6px;
+  left: unset;
+}
+
+.kalimah-shortcodes-progress-bar.third-style .kalimah-progress-bar-element-color span {
+  left: 0px;
+  right: unset;
+  position: absolute;
+}
+
+.kalimah-shortcodes-progress-bar.fourth-style .kalimah-progress-bar-element-color span {
+  left: 5px;
+  right: unset;
+}
+.kalimah-shortcodes-progress-bar.fifth-style .kalimah-progress-bar-element-color {
+  border-radius: 5px 0 0 5px;
+  margin-right: 1px;
+  position: relative;
+}
+.kalimah-shortcodes-progress-bar.fifth-style .kalimah-progress-bar-heading {
+  border-radius: 0 5px 5px 0;
+  float: right;
+}	
+
+.kalimah-shortcodes-progress-bar.fifth-style {
+  border-radius: 5px;
+}
+
+.kalimah-shortcodes-progress-bar.fifth-style .kalimah-progress-bar-element-color span {
+  left: 3px;
+  right: unset;
+ 
+}
+
+/* QR Code*/
+.kalimah-shortcodes-qrcode {
+  float: right;
+}
+
+.kalimah-shortcodes-qrcode tr {
+  direction: ltr;
+  display: flex;
+}
+
+/* Video */
+.kalimah-shortcodes-video {
+  float: right;
+}
+
+/* Divider*/
+.kalimah-shortcodes.kalimah-shortcodes-divider {
+  float: right;
+  position: relative;
+  width: 100%;
+}
+
+/* Counter*/
+.kalimah-shortcodes-counter {
+  float: right;
+}
+
+/* Restricted */
+.kalimah-shortcodes.kalimah-shortcodes-members i {
+    right: 50px;
+    left: unset;
+}
+
+.kalimah-shortcodes.kalimah-shortcodes-members > span {
+    margin-right: 90px;
+    margin-left: 0px;
+}
+
+/* slider */
+.kalimah-shortcodes-slider.second-style .kalimah-shortcodes-slider-navigation {
+  left: 0;
+  right: unset;
+}
+
+.kalimah-shortcodes-slider.second-style .kalimah-shortcodes-slider-navigation .prev,
+.kalimah-shortcodes-slider.second-style .kalimah-shortcodes-slider-navigation .next {
+  float: left;
+}
+
+/* List */
+.kalimah-shortcodes-list li.dashicons {
+  float: right;
+  text-align: right;
+}
+
+/* Tabs */
+.kalimah-shortcodes-tabs.horizontal.third-style .shortcode_tabs_title:first-of-type {
+  margin-right: 25px;
+  margin-left: unset;
+}
+
+.kalimah-shortcodes-tabs.horizontal.fourth-style .shortcode_tabs_title {
+  margin-left: 25px;
+  margin-right: unset;
+}
+
+.kalimah-shortcodes-tabs.horizontal.fourth-style .shortcode_tabs_title::after {
+  left: 0;
+  right: unset;
+  transform: skewX(320deg) translateX(-18px);
+}
+
+.kalimah-shortcodes-tabs.vertical.third-style .kalimah-shortcodes-tabs-titles {
+  right: -25px;
+  left: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.third-style .kalimah-shortcodes-tabs-titles::after {
+  border-left: 25px solid transparent;
+  border-right: 0 solid transparent;
+  left: -25px;
+  right: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.third-style .kalimah-shortcodes-tabs-titles::before {
+  border-left: 25px solid transparent;
+  border-right: 0px solid transparent;
+  left: -25px;
+  right: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.third-style .kalimah-shortcodes-tabs-content {
+  margin-right: 40px;
+  margin-left: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.fourth-style .shortcode_tabs_title .tabs_title {
+  line-height: 1;
+  width: 100%;
+  writing-mode: vertical-lr;
+  padding: 5px;
+}
+
+.kalimah-shortcodes-tabs.vertical .shortcode_tabs_title > span {
+  flex-direction: column;
+  width: 100%;
+}
+
+.kalimah-shortcodes-tabs.vertical.fifth-style .shortcode_tabs_title {
+  border-radius: 0 15px 5px 0;
+  left: -1px;
+}
+
+.kalimah-shortcodes-tabs.vertical.fifth-style .shortcode_tabs_title.border-radius {
+  border-radius: 0 5px 5px 0;
+}
+
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tabs_title {
+  border-left: 2px solid;
+  border-right: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tabs_title.active::before {
+  border-right-color: gray;
+  border-left-color: transparent;
+}
+
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tabs_title::after,
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tabs_title::before {
+  right: 100%;
+  left: unset;
+}
+
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tabs_title.active::after {
+  border-right-color: white;
+   border-left-color: transparent;
+}
+
+.kalimah-shortcodes-tabs.vertical.sixth-style .shortcode_tab_content {
+  padding-right: 15px;
+  padding-left: 0;
+}
+
+.kalimah-shortcodes-tabs.fifth-style .shortcode_tab_content {
+  border-radius: 5px 0 5px 5px;
+}
+
+/* Box */
+.kalimah-shortcodes-box .close {
+  left: 10px;
+  top: 0;
+  right: unset;
+}
+
+.kalimah-shortcodes-box .box-icon {
+  float: right;
+}
+
+/* Accordion */
+.kalimah-shortcodes-accordion.vertical .accordion_outer .title
+{
+	text-align: right !important;
+}
+
+/* Image */
+.kalimah-shortcodes-image.first-effect img {
+  transform: translateX(40px);
+}
+
+.kalimah-shortcodes-image-title {
+  margin-right: 50px;
+  margin-left: unset;
+}
+
+.kalimah-shortcodes-image.third-effect .kalimah-shortcodes-image-description {
+  text-align: right;
+}
+
+.kalimah-shortcodes-image.fourth-effect .kalimah-shortcodes-image-description {
+  text-align: right;
+}
+
+.kalimah-shortcodes-image.sixth-effect .kalimah-shortcodes-image-description {
+  text-align: right;
+}
